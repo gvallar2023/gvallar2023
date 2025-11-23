@@ -17,7 +17,7 @@ I'm passionate about building secure, intelligent systems for **defense, resilie
 
 ## 🛸 Featured Projects
 ### **Quantum Reinforcement Learning for UAV Infrastructure Assessment**
-Toy simulation of QRL + UAV path optimization
+Toy simulation of QRL + UAV path optimization.
 📁Repo: (coming soon)
 
 ### **WNBA Draft Prediction Model (ML Pipeline)**
@@ -38,7 +38,7 @@ File-based library management system with menu-driven UI and command recall.
 - **HiFINS: A Hierarchical Federated Learning Based Interactive System for Smart Home Security**
 - *IEEE Access (2025)*
 - **Quantum Reinforcement Learning for Real-Time UAV-Aided Infrastructure Resilience**
-- -*In Progress (2025)*
+- *In Progress (2025)*
 
 ---
 
