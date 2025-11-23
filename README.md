@@ -34,7 +34,7 @@ File-based library management system with menu-driven UI and command recall.
 
 ---
 
-##🦾 Publications
+## 🦾 Publications
 - **HiFINS: A Hierarchical Federated Learning Based Interactive System for Smart Home Security**
 - *IEEE Access (2025)*
 - **Quantum Reinforcement Learning for Real-Time UAV-Aided Infrastructure Resilience**
@@ -42,7 +42,7 @@ File-based library management system with menu-driven UI and command recall.
 
 ---
 
-##🔭 Future Projects
+## 🔭 Future Projects
 ### **AI-Powered Threat Detection System**
 *Coming Soon...*
 ### **AI Assistant**
