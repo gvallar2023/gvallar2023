@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hello, I'm Gabriella Vallar 👋
+## Software Engineering Student | Cybersecurity & ML Researcher | Future DoD Engineer
 
-<!--
-**gvallar2023/gvallar2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineering student specializing in **machine learning, cybersecurity, and autonomous systems**, with published research in **IEEE Access** and ongoing work in **federated learning** and **UAV-based quantum reinforcement learning**.
+I'm passionate about building secure, intelligent systems for **defense, resilience, and real-time decision-making**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🪐 Technical Skills
+**Languages:** Python, C++, C, Bash  
+**Cybersecurity:** Linux Hardening, Network Security, IoT Security, Secure Systems Design, TCP/IP  
+**AI/ML:** Federated Learning, Predictive Modeling, Reinforcement Learning, Feature Engineering  
+**Systems:** Linux, Git/GitHub, Apache, dnsmasq, systemd  
+**Tools:** scikit-learn, NumPy, pandas, TensorFlow, Autodesk Inventor, AutoCAD
+
+---
+
+## 🛸 Featured Projects
+### **Quantum Reinforcement Learning for UAV Infrastructure Assessment**
+Toy simulation of QRL + UAV path optimization
+📁Repo: (coming soon)
+
+### **WNBA Draft Prediction Model (ML Pipeline)**
+Machine learning system using  Random Forest and XGBoost to rank 2025 draft prospects.
+📁Repo: (coming soon)
+
+### **Linux DNS/WEB Server***
+Secure Linux-based HTTP + DNS service using Apache, dnsmasq, and systemd.
+📁Repo: (coming soon)
+
+### **Library Management System**
+File-based library management system with menu-driven UI and command recall.
+📁Repo: (coming soon)
+
+---
+
+##🦾 Publications
+- **HiFINS: A Hierarchical Federated Learning Based Interactive System for Smart Home Security**
+- *IEEE Access (2025)*
+- **Quantum Reinforcement Learning for Real-Time UAV-Aided Infrastructure Resilience**
+- -*In Progress (2025)*
+
+---
+
+##🔭 Future Projects
+### **AI-Powered Threat Detection System**
+*Coming Soon...*
+### **AI Assistant**
+*Coming Soon...*
+
+---
+
+##📢 How to Connect With Me
+📫 **LinkedIn:** www.linkedin.com/in/gabriella-vallar-59873b293
+📫 **Resume:** included in portfolio repo
+📫 **Email:** gabivallar@gmail.com
