@@ -30,7 +30,7 @@ Secure Linux-based HTTP + DNS service using Apache, dnsmasq, and systemd.
 
 ### **Library Management System**
 File-based library management system with menu-driven UI and command recall.
-📁Repo: (coming soon)
+📁Repo: [library-system-cpp](https://github.com/gvallar2023/library-system-cpp)
 
 ---
 
