@@ -1,7 +1,7 @@
 # Hello, I'm Gabriella Vallar 👋
 ## Software Engineering Student | Cybersecurity & ML Researcher | Future DoD Engineer
 
-I'm a Software Engineering student specializing in **machine learning, cybersecurity, and autonomous systems**, with published research in **IEEE Access** and ongoing work in **federated learning** and **UAV-based quantum reinforcement learning**.
+I am a Software Engineering student specializing in **machine learning, cybersecurity, and autonomous systems**, with published research in **IEEE Access** and ongoing work in **federated learning** and **UAV-based quantum reinforcement learning**.
 I'm passionate about building secure, intelligent systems for **defense, resilience, and real-time decision-making**.
 
 ---
@@ -24,7 +24,7 @@ Toy simulation of QRL + UAV path optimization.
 Machine learning system using  Random Forest and XGBoost to rank 2025 draft prospects.
 📁Repo: (coming soon)
 
-### **Linux DNS/WEB Server***
+### **Linux DNS/WEB Server**
 Secure Linux-based HTTP + DNS service using Apache, dnsmasq, and systemd.
 📁Repo: (coming soon)
 
