@@ -52,5 +52,5 @@ File-based library management system with menu-driven UI and command recall.
 
 ## 📢 How to Connect With Me
 📫 **LinkedIn:** www.linkedin.com/in/gabriella-vallar-59873b293
-📫 **Resume:** included in portfolio repo
+📫 **Resume:** [portfolio](https://github.com/gvallar2023/porfolio)
 📫 **Email:** gabivallar@gmail.com
