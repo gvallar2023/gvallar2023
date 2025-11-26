@@ -16,8 +16,8 @@ I'm passionate about building secure, intelligent systems for **defense, resilie
 ---
 
 ## 🛸 Featured Projects
-### **Quantum Reinforcement Learning for UAV Infrastructure Assessment**
-Toy simulation of QRL + UAV path optimization.
+### **Quantum Reinforcement Learning for UAV Simulation**
+A3C agent enhanced with quantum layers using PyTorch Quantum for UAV path optimization.
 📁Repo: (coming soon)
 
 ### **WNBA Draft Prediction Model (ML Pipeline)**
