@@ -22,7 +22,7 @@ A3C agent enhanced with quantum layers using PyTorch Quantum for UAV path optimi
 
 ### **WNBA Draft Prediction Model (ML Pipeline)**
 Machine learning system using  Random Forest and XGBoost to rank 2025 draft prospects.
-📁Repo: (coming soon)
+📁Repo: [wnba-draft-ml](https://github.com/gvallar2023/wnba-draft-ml)
 
 ### **Linux DNS/WEB Server**
 Secure Linux-based HTTP + DNS service using Apache, dnsmasq, and systemd.
