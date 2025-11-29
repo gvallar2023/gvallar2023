@@ -16,9 +16,6 @@ I'm passionate about building secure, intelligent systems for **defense, resilie
 ---
 
 ## 🛸 Featured Projects
-### **Quantum Reinforcement Learning for UAV Simulation**
-A3C agent enhanced with quantum layers using PyTorch Quantum for UAV path optimization.
-📁Repo: (coming soon)
 
 ### **WNBA Draft Prediction Model (ML Pipeline)**
 Machine learning system using  Random Forest and XGBoost to rank 2025 draft prospects.
@@ -37,6 +34,7 @@ File-based library management system with menu-driven UI and command recall.
 ## 🦾 Publications
 - **HiFINS: A Hierarchical Federated Learning Based Interactive System for Smart Home Security**
 - *IEEE Access (2025)*
+  
 - **Quantum Reinforcement Learning for Real-Time UAV-Aided Infrastructure Resilience**
 - *In Progress (2025)*
 
